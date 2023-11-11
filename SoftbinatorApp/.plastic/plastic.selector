@@ -1,0 +1,4 @@
+repository "Softbinator app@Ciupercutza_Roz@cloud"
+  path "/"
+    br "/main"
+    co "/main"
